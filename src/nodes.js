@@ -1,4 +1,3 @@
-
 // Sections
 const headerSection = document.querySelector('#header');
 const trendingPreviewSection = document.querySelector('#trendingPreview');
